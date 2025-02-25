@@ -31,7 +31,7 @@ Our team is proficient in modern technologies and frameworks, including:
 
 ## 📞 Get in Touch
 We’d love to collaborate on your next project! Reach out to us:
-- 📧 Email: contact@boadtechnologies.com
+- 📧 Email: boadtechnologies@gmail.com
 - 🌐 Website: [www.boadtechnologies.com](https://boadtechnologies.github.io/BoadTechnologies/)
 - 📱 LinkedIn: [linkedin.com/company/boadtechnologies](http://linkedin.com/company/boadtechnologies)
 - 📍 Location: [Gumasta Nagar Phoothi Kothi Indore MP]
